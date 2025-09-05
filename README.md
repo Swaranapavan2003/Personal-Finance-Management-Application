@@ -27,6 +27,7 @@ This app helps users track income and expenses, set budgets, generate reports, a
 # Installation & Setup
 
 * Clone or download this repository:
+* https://github.com/Swaranapavan2003/Personal-Finance-Management-Application.git
 
 * Run the application:
 * python app.py
