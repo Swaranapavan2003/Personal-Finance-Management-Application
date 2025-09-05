@@ -70,12 +70,6 @@ This app helps users track income and expenses, set budgets, generate reports, a
   * Monthly reports
   * Budget alerts
 
-  # Project Structure
-  * personal-finance-manager/
-  * │── app.py              # Main application (CLI)
-  * │── README.md           # Documentation
-  * │── backups/            # Backup files (optional)
-  * │── pfm.sqlite3         # Default SQLite database (auto-created)
 
   # Security Notes
   * Passwords are never stored in plain text.
